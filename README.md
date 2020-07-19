@@ -8,6 +8,10 @@ Iterative and recursive implementations of each algorithm are provided side by
 side within the same class for easy comparison. It is interesting to see how
 some iterative algorithms can be implemented using recursion.
 
+### Compatibility
+
+The program was written working with Java 8. (1.8.0_212). It has not been tested in any other environment.
+
 ## Algorithms
 
 ### Euclidean Algorithm - EuclideanAlgorithm class
